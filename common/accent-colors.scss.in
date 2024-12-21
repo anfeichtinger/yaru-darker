@@ -17,7 +17,7 @@
     } @else if $accent_color == 'blue' {
         $color: #0073E5;
     } @else if $accent_color == 'purple' {
-        $color: #7764D8;
+        $color: #4b417a;
     } @else if $accent_color == 'magenta' {
         $color: #B34CB3;
     } @else if $accent_color == 'red' {
@@ -41,8 +41,7 @@ $is_warty_nostalgia: '@yaru_accent_color@' == 'wartybrown' and not $yaru_is_dark
 $warty_nostalgia_bg: #eeeeee;
 
 $contrast_target: if($yaru_is_dark_variant, 4.5, 4.8);
-$yaru_accent_color: optimize-contrast($yaru_bg_color,
-    $yaru_accent_bg_color, $target: $contrast_target);
+$yaru_accent_color: $yaru_accent_bg_color;
 
 @debug("Accent color is " + $yaru_accent_bg_color);
 @debug("Contrast optimized accent is " + $yaru_accent_color);

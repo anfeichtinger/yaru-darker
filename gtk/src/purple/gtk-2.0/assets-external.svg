@@ -1791,7 +1791,7 @@
          x="159"
          y="486" />
       <path
-         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#7764D8;fill-opacity:1;stroke:#7764D8;stroke-width:0.99115;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none"
+         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#4b417a;fill-opacity:1;stroke:#4b417a;stroke-width:0.99115;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none"
          d="m 167.98168,487.55805 c -4.14132,0 -7.50442,3.3631 -7.50442,7.50442 0,4.14133 3.3631,7.50443 7.50442,7.50443 4.14131,0 7.50443,-3.3631 7.50443,-7.50443 0,-4.14132 -3.36312,-7.50442 -7.50443,-7.50442 z"
          id="path6208"
          sodipodi:nodetypes="csssc"
@@ -1839,7 +1839,7 @@
            style="display:inline;stroke-width:1.29982">
           <rect
              ry="2.764189"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#7764D8;fill-opacity:1;stroke:#7764D8;stroke-width:0.957218;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4b417a;fill-opacity:1;stroke:#4b417a;stroke-width:0.957218;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
              id="rect11803"
              width="14.340722"
              height="14.375834"
@@ -1940,7 +1940,7 @@
              height="14.375834"
              width="14.340722"
              id="rect1849"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#7764D8;fill-opacity:1;stroke:#7764D8;stroke-width:0.957218;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4b417a;fill-opacity:1;stroke:#4b417a;stroke-width:0.957218;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
              ry="2.764189" />
         </g>
       </g>
@@ -1966,7 +1966,7 @@
          x="159"
          y="486" />
       <path
-         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#7764D8;fill-opacity:1;stroke:#7764D8;stroke-width:0.99115;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none"
+         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#4b417a;fill-opacity:1;stroke:#4b417a;stroke-width:0.99115;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none"
          d="m 168,487.49558 c -4.14132,0 -7.50442,3.36309 -7.50442,7.50442 0,4.14132 3.3631,7.50443 7.50442,7.50443 4.14131,0 7.50443,-3.3631 7.50443,-7.50443 0,-4.14133 -3.36312,-7.50442 -7.50443,-7.50442 z"
          id="path6208-6"
          sodipodi:nodetypes="csssc"

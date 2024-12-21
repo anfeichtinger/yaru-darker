@@ -37,10 +37,10 @@
   <color name="orange_5"                   value="#E95420"/>
   
   <color name="purple_1"                   value="#924D8B"/>
-  <color name="purple_2"                   value="#762572"/>
-  <color name="purple_3"                   value="#77216F"/>
-  <color name="purple_4"                   value="#5E2750"/>
-  <color name="purple_5"                   value="#2C001E"/>
+  <color name="purple_2"                   value="#4b417a"/>
+  <color name="purple_3"                   value="#6652b0"/>
+  <color name="purple_4"                   value="#53458e"/>
+  <color name="purple_5"                   value="#4b417a"/>
   
   <color name="red_1"                      value="#EA485C"/>
   <color name="red_2"                      value="#DE374C"/>
